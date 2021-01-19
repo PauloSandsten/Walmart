@@ -5,7 +5,11 @@ import { selectQueryHistory } from "./queryHistorySlice";
 import { add } from "./queryHistorySlice";
 import Styles from "./StoreFinderForm.module.css";
 
-const StoreFinderForm = () => {
+interface StoreFinderFormProps {
+  onSubmit: (query: string) => void;
+}
+
+const StoreFinderForm: React.FC<StoreFinderFormProps> = ({ onSubmit }) => {
   const [value, setValue] = useState("");
   const history = useSelector(selectQueryHistory);
   const dispatch = useDispatch();
@@ -19,6 +23,7 @@ const StoreFinderForm = () => {
     e.preventDefault();
     setValue("");
     dispatch(add(value));
+    onSubmit(value);
   };
 
   const handleChange = (e: React.ChangeEvent<HTMLInputElement>) => {

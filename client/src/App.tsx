@@ -1,5 +1,6 @@
 import React from "react";
 import { Default as DefaultLayout } from "./layouts";
+import { StoreFinder } from "./pages";
 
 /**
  * If this was a real application we would have a router, such as "React-Router" here.
@@ -7,7 +8,11 @@ import { Default as DefaultLayout } from "./layouts";
  * component directly in here.
  */
 function App() {
-  return <DefaultLayout>"hello"</DefaultLayout>;
+  return (
+    <DefaultLayout>
+      <StoreFinder />
+    </DefaultLayout>
+  );
 }
 
 export default App;

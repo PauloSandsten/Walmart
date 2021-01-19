@@ -17,8 +17,11 @@ const StoreFinder = () => {
    * instead of Redux as we don't want the user to see a populated list if
    * we actually used a router.
    */
-  const stores = useFetch(api.stores.url, {});
-  console.log(stores);
+  const [stores, fetchData, loading]: any = useFetch();
+
+  const handleSubmit = (query: string) => {
+    fetchData(`${api.stores.url}?query=${query}`, {});
+  };
 
   return (
     <div className={Styles.wrapper}>
@@ -32,11 +35,16 @@ const StoreFinder = () => {
         </p>
       </div>
       <div className={Styles.formWrapper}>
-        <StoreFinderForm />
+        <StoreFinderForm onSubmit={handleSubmit} />
       </div>
       <div className={Styles.listWrapper}>
-        {!stores.response && <div>Loading...</div>}
-        {stores.response && <StoreFinderList stores={stores.response || []} />}
+        {loading && <div>Loading...</div>}
+        {
+          // @ts-ignore
+          !loading && stores?.length > 0 && (
+            <StoreFinderList stores={stores || []} />
+          )
+        }
       </div>
     </div>
   );

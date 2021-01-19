@@ -1,5 +1,7 @@
 import React from "react";
 import ReactDOM from "react-dom";
+import "./theme/variables.css";
+import "./theme/default.css";
 import App from "./App";
 import { store } from "./services/redux/store";
 import { Provider } from "react-redux";
