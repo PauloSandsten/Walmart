@@ -1,3 +1,8 @@
+GET http://localhost:8000/api/stores?query=miami HTTP/1.1
+
+###
+GET http://localhost:8000/api/stores?query=97217 HTTP/1.1
+
 ###
 GET http://localhost:8000/api/stores/mock HTTP/1.1
 
