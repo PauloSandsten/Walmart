@@ -1,0 +1,1667 @@
+[
+  {
+    "id": 5535,
+    "distance": 10.03,
+    "displayName": "San Bruno Neighborhood Market",
+    "detailsPageURL": "http://www.walmart.com/store/5535",
+    "address": {
+      "postalCode": "94066",
+      "address": "950 Elm Ave",
+      "addressLine2": null,
+      "city": "San Bruno",
+      "state": "CA",
+      "stateFullName": "California",
+      "country": "US"
+    },
+    "phone": "000-000-0000",
+    "openNow": true,
+    "openDate": "07/22/2020 00:00",
+    "operationalHours": {
+      "open24Hours": true,
+      "monToFriHrs": {
+        "startHr": "00:00",
+        "endHr": "24:00",
+        "openFullDay": true,
+        "closed": null
+      },
+      "mondayHrs": {
+        "startHr": "00:00",
+        "endHr": "24:00",
+        "openFullDay": true,
+        "closed": null
+      },
+      "tuesdayHrs": {
+        "startHr": "00:00",
+        "endHr": "24:00",
+        "openFullDay": true,
+        "closed": null
+      },
+      "wednesdayHrs": {
+        "startHr": "00:00",
+        "endHr": "24:00",
+        "openFullDay": true,
+        "closed": null
+      },
+      "thursdayHrs": {
+        "startHr": "00:00",
+        "endHr": "24:00",
+        "openFullDay": true,
+        "closed": null
+      },
+      "fridayHrs": {
+        "startHr": "00:00",
+        "endHr": "24:00",
+        "openFullDay": true,
+        "closed": null
+      },
+      "sundayHrs": {
+        "startHr": "00:00",
+        "endHr": "24:00",
+        "openFullDay": true,
+        "closed": null
+      },
+      "saturdayHrs": {
+        "startHr": "00:00",
+        "endHr": "24:00",
+        "openFullDay": true,
+        "closed": null
+      },
+      "todayHrs": {
+        "startHr": "00:00",
+        "endHr": "24:00",
+        "openFullDay": true,
+        "closed": null
+      },
+      "tomorrowHrs": {
+        "startHr": "00:00",
+        "endHr": "24:00",
+        "openFullDay": true,
+        "closed": null
+      },
+      "nextOpenHrs": {
+        "startHr": "00:00",
+        "daysUntilOpen": 0,
+        "isoWeekday": 1
+      },
+      "announcement": null
+    },
+    "allServices": [
+      {
+        "id": "21",
+        "name": "PHARMACY",
+        "displayName": "Pharmacy"
+      },
+      {
+        "id": "290",
+        "name": "BAKERY",
+        "displayName": "Bakery"
+      },
+      {
+        "id": "289",
+        "name": "DELI",
+        "displayName": "Deli"
+      },
+      {
+        "id": "3",
+        "name": "GROCERY",
+        "displayName": "Grocery"
+      },
+      {
+        "id": "288",
+        "name": "IMMUNIZATIONS",
+        "displayName": "Immunizations"
+      },
+      {
+        "id": "835",
+        "name": "LIQUOR",
+        "displayName": "liquor"
+      },
+      {
+        "id": "42",
+        "name": "OPEN_24_HOURS",
+        "displayName": "Open 24 Hours"
+      }
+    ],
+    "services": [
+      {
+        "id": "290",
+        "name": "BAKERY",
+        "displayName": "Bakery"
+      },
+      {
+        "id": "289",
+        "name": "DELI",
+        "displayName": "Deli"
+      },
+      {
+        "id": "288",
+        "name": "IMMUNIZATIONS",
+        "displayName": "Immunizations"
+      },
+      {
+        "id": "835",
+        "name": "LIQUOR",
+        "displayName": "liquor"
+      },
+      {
+        "id": "42",
+        "name": "OPEN_24_HOURS",
+        "displayName": "Open 24 Hours"
+      }
+    ],
+    "nearbyStores": [
+      {
+        "id": 32068
+      },
+      {
+        "id": 2648
+      },
+      {
+        "id": 5434
+      },
+      {
+        "id": 2031
+      },
+      {
+        "id": 99922
+      },
+      {
+        "id": 2280
+      },
+      {
+        "id": 3455
+      },
+      {
+        "id": 5426
+      },
+      {
+        "id": 2989
+      },
+      {
+        "id": 5610
+      }
+    ]
+  },
+  {
+    "id": 32068,
+    "distance": 10.64,
+    "displayName": "San Bruno Store",
+    "detailsPageURL": "http://www.walmart.com/store/32068",
+    "address": {
+      "postalCode": "94066",
+      "address": "32068 - Cherry Ave",
+      "addressLine2": null,
+      "city": "San Bruno",
+      "state": "CA",
+      "stateFullName": "California",
+      "country": "US"
+    },
+    "phone": "479-273-0060",
+    "openNow": true,
+    "openDate": null,
+    "operationalHours": {
+      "open24Hours": true,
+      "monToFriHrs": {
+        "startHr": "00:00",
+        "endHr": "24:00",
+        "openFullDay": true,
+        "closed": null
+      },
+      "mondayHrs": {
+        "startHr": "00:00",
+        "endHr": "24:00",
+        "openFullDay": true,
+        "closed": null
+      },
+      "tuesdayHrs": {
+        "startHr": "00:00",
+        "endHr": "24:00",
+        "openFullDay": true,
+        "closed": null
+      },
+      "wednesdayHrs": {
+        "startHr": "00:00",
+        "endHr": "24:00",
+        "openFullDay": true,
+        "closed": null
+      },
+      "thursdayHrs": {
+        "startHr": "00:00",
+        "endHr": "24:00",
+        "openFullDay": true,
+        "closed": null
+      },
+      "fridayHrs": {
+        "startHr": "00:00",
+        "endHr": "24:00",
+        "openFullDay": true,
+        "closed": null
+      },
+      "sundayHrs": {
+        "startHr": "00:00",
+        "endHr": "24:00",
+        "openFullDay": true,
+        "closed": null
+      },
+      "saturdayHrs": {
+        "startHr": "00:00",
+        "endHr": "24:00",
+        "openFullDay": true,
+        "closed": null
+      },
+      "todayHrs": {
+        "startHr": "00:00",
+        "endHr": "24:00",
+        "openFullDay": true,
+        "closed": null
+      },
+      "tomorrowHrs": {
+        "startHr": "00:00",
+        "endHr": "24:00",
+        "openFullDay": true,
+        "closed": null
+      },
+      "nextOpenHrs": {
+        "startHr": "00:00",
+        "daysUntilOpen": 0,
+        "isoWeekday": 1
+      },
+      "announcement": null
+    },
+    "allServices": [
+      {
+        "id": "21",
+        "name": "PHARMACY",
+        "displayName": "Pharmacy"
+      },
+      {
+        "id": "5",
+        "name": "PICK_UP_TODAY",
+        "displayName": "Pickup Today"
+      },
+      {
+        "id": "1",
+        "name": "SITE_2_STORE",
+        "displayName": "Pickup"
+      }
+    ],
+    "services": [
+      {
+        "id": "5",
+        "name": "PICK_UP_TODAY",
+        "displayName": "Pickup Today"
+      }
+    ],
+    "nearbyStores": [
+      {
+        "id": 5535
+      },
+      {
+        "id": 2648
+      },
+      {
+        "id": 5434
+      },
+      {
+        "id": 2031
+      },
+      {
+        "id": 99922
+      },
+      {
+        "id": 2280
+      },
+      {
+        "id": 5426
+      },
+      {
+        "id": 3455
+      },
+      {
+        "id": 2989
+      },
+      {
+        "id": 5610
+      }
+    ]
+  },
+  {
+    "id": 2648,
+    "distance": 13.85,
+    "displayName": "San Leandro Store",
+    "detailsPageURL": "http://www.walmart.com/store/2648",
+    "address": {
+      "postalCode": "94577",
+      "address": "1919 Davis St",
+      "addressLine2": null,
+      "city": "San Leandro",
+      "state": "CA",
+      "stateFullName": "California",
+      "country": "US"
+    },
+    "phone": "510-569-0200",
+    "openNow": true,
+    "openDate": "03/17/1999 00:00",
+    "operationalHours": {
+      "open24Hours": null,
+      "monToFriHrs": {
+        "startHr": "06:00",
+        "endHr": "24:00",
+        "openFullDay": null,
+        "closed": null
+      },
+      "mondayHrs": {
+        "startHr": "06:00",
+        "endHr": "24:00",
+        "openFullDay": null,
+        "closed": null
+      },
+      "tuesdayHrs": {
+        "startHr": "06:00",
+        "endHr": "24:00",
+        "openFullDay": null,
+        "closed": null
+      },
+      "wednesdayHrs": {
+        "startHr": "06:00",
+        "endHr": "24:00",
+        "openFullDay": null,
+        "closed": null
+      },
+      "thursdayHrs": {
+        "startHr": "06:00",
+        "endHr": "24:00",
+        "openFullDay": null,
+        "closed": null
+      },
+      "fridayHrs": {
+        "startHr": "06:00",
+        "endHr": "24:00",
+        "openFullDay": null,
+        "closed": null
+      },
+      "sundayHrs": {
+        "startHr": "06:00",
+        "endHr": "24:00",
+        "openFullDay": null,
+        "closed": null
+      },
+      "saturdayHrs": {
+        "startHr": "06:00",
+        "endHr": "24:00",
+        "openFullDay": null,
+        "closed": null
+      },
+      "todayHrs": {
+        "startHr": "06:00",
+        "endHr": "24:00",
+        "openFullDay": null,
+        "closed": null
+      },
+      "tomorrowHrs": {
+        "startHr": "06:00",
+        "endHr": "24:00",
+        "openFullDay": null,
+        "closed": null
+      },
+      "nextOpenHrs": {
+        "startHr": "06:00",
+        "daysUntilOpen": 0,
+        "isoWeekday": 1
+      },
+      "announcement": null
+    },
+    "allServices": [
+      {
+        "id": "21",
+        "name": "PHARMACY",
+        "displayName": "Pharmacy"
+      },
+      {
+        "id": "300",
+        "name": "FAST_KEY",
+        "displayName": "Fast Key"
+      },
+      {
+        "id": "24",
+        "name": "MC_DONALDS",
+        "displayName": "McDonald's"
+      },
+      {
+        "id": "298",
+        "name": "MINUTE_KEY",
+        "displayName": "Minute Key"
+      },
+      {
+        "id": "749",
+        "name": "PICKUP_TOGETHER",
+        "displayName": "PickUp Together"
+      },
+      {
+        "id": "297",
+        "name": "QUICK_TAG",
+        "displayName": "Quick Tag"
+      },
+      {
+        "id": "836",
+        "name": "REDBOX_A",
+        "displayName": "Redbox - Kiosk A"
+      },
+      {
+        "id": "833",
+        "name": "REDBOX_B",
+        "displayName": "Redbox - Kiosk B"
+      },
+      {
+        "id": "10",
+        "name": "WIRELESS_MOBILE",
+        "displayName": "Wireless Services"
+      }
+    ],
+    "services": [
+      {
+        "id": "300",
+        "name": "FAST_KEY",
+        "displayName": "Fast Key"
+      },
+      {
+        "id": "24",
+        "name": "MC_DONALDS",
+        "displayName": "McDonald's"
+      },
+      {
+        "id": "298",
+        "name": "MINUTE_KEY",
+        "displayName": "Minute Key"
+      },
+      {
+        "id": "749",
+        "name": "PICKUP_TOGETHER",
+        "displayName": "PickUp Together"
+      },
+      {
+        "id": "297",
+        "name": "QUICK_TAG",
+        "displayName": "Quick Tag"
+      },
+      {
+        "id": "836",
+        "name": "REDBOX_A",
+        "displayName": "Redbox - Kiosk A"
+      },
+      {
+        "id": "833",
+        "name": "REDBOX_B",
+        "displayName": "Redbox - Kiosk B"
+      },
+      {
+        "id": "10",
+        "name": "WIRELESS_MOBILE",
+        "displayName": "Wireless Services"
+      }
+    ],
+    "nearbyStores": [
+      {
+        "id": 5434
+      },
+      {
+        "id": 2031
+      },
+      {
+        "id": 99922
+      },
+      {
+        "id": 5610
+      },
+      {
+        "id": 5535
+      },
+      {
+        "id": 32068
+      },
+      {
+        "id": 2161
+      },
+      {
+        "id": 5611
+      },
+      {
+        "id": 5426
+      },
+      {
+        "id": 2989
+      }
+    ]
+  },
+  {
+    "id": 3455,
+    "distance": 15.01,
+    "displayName": "Richmond Store",
+    "detailsPageURL": "http://www.walmart.com/store/3455",
+    "address": {
+      "postalCode": "94806",
+      "address": "1400 Hilltop Mall Rd",
+      "addressLine2": null,
+      "city": "Richmond",
+      "state": "CA",
+      "stateFullName": "California",
+      "country": "US"
+    },
+    "phone": "510-669-1342",
+    "openNow": true,
+    "openDate": "04/11/2007 00:00",
+    "operationalHours": {
+      "open24Hours": null,
+      "monToFriHrs": {
+        "startHr": "07:00",
+        "endHr": "20:30",
+        "openFullDay": null,
+        "closed": null
+      },
+      "mondayHrs": {
+        "startHr": "07:00",
+        "endHr": "20:30",
+        "openFullDay": null,
+        "closed": null
+      },
+      "tuesdayHrs": {
+        "startHr": "07:00",
+        "endHr": "20:30",
+        "openFullDay": null,
+        "closed": null
+      },
+      "wednesdayHrs": {
+        "startHr": "07:00",
+        "endHr": "20:30",
+        "openFullDay": null,
+        "closed": null
+      },
+      "thursdayHrs": {
+        "startHr": "07:00",
+        "endHr": "20:30",
+        "openFullDay": null,
+        "closed": null
+      },
+      "fridayHrs": {
+        "startHr": "07:00",
+        "endHr": "20:30",
+        "openFullDay": null,
+        "closed": null
+      },
+      "sundayHrs": {
+        "startHr": "07:00",
+        "endHr": "20:30",
+        "openFullDay": null,
+        "closed": null
+      },
+      "saturdayHrs": {
+        "startHr": "07:00",
+        "endHr": "20:30",
+        "openFullDay": null,
+        "closed": null
+      },
+      "todayHrs": {
+        "startHr": "07:00",
+        "endHr": "20:30",
+        "openFullDay": null,
+        "closed": null
+      },
+      "tomorrowHrs": {
+        "startHr": "07:00",
+        "endHr": "20:30",
+        "openFullDay": null,
+        "closed": null
+      },
+      "nextOpenHrs": {
+        "startHr": "07:00",
+        "daysUntilOpen": 0,
+        "isoWeekday": 1
+      },
+      "announcement": null
+    },
+    "allServices": [
+      {
+        "id": "21",
+        "name": "PHARMACY",
+        "displayName": "Pharmacy"
+      },
+      {
+        "id": "862",
+        "name": "COVID_IMMUNIZATIONS",
+        "displayName": "COVID Immunizations"
+      },
+      {
+        "id": "859",
+        "name": "EXPRESS_DELIVERY",
+        "displayName": "Express Delivery"
+      },
+      {
+        "id": "304",
+        "name": "GROCERY_PICKUP",
+        "displayName": "Grocery Pickup"
+      },
+      {
+        "id": "305",
+        "name": "GROCERY_PICKUP_DELIVERY",
+        "displayName": "Grocery Pickup and Delivery"
+      },
+      {
+        "id": "413",
+        "name": "IN_LANE_MONEYCENTER",
+        "displayName": "In-Lane MoneyCenter"
+      },
+      {
+        "id": "8",
+        "name": "PHOTO_CENTER",
+        "displayName": "Photo Center"
+      },
+      {
+        "id": "7",
+        "name": "PHOTO_CENTER_ONE_HOUR",
+        "displayName": "1-Hour Photo Center"
+      },
+      {
+        "id": "749",
+        "name": "PICKUP_TOGETHER",
+        "displayName": "PickUp Together"
+      },
+      {
+        "id": "5",
+        "name": "PICK_UP_TODAY",
+        "displayName": "Pickup Today"
+      },
+      {
+        "id": "1",
+        "name": "SITE_2_STORE",
+        "displayName": "Pickup"
+      },
+      {
+        "id": "4",
+        "name": "VISION_CENTER",
+        "displayName": "Vision Center"
+      }
+    ],
+    "services": [
+      {
+        "id": "862",
+        "name": "COVID_IMMUNIZATIONS",
+        "displayName": "COVID Immunizations"
+      },
+      {
+        "id": "859",
+        "name": "EXPRESS_DELIVERY",
+        "displayName": "Express Delivery"
+      },
+      {
+        "id": "305",
+        "name": "GROCERY_PICKUP_DELIVERY",
+        "displayName": "Grocery Pickup and Delivery"
+      },
+      {
+        "id": "413",
+        "name": "IN_LANE_MONEYCENTER",
+        "displayName": "In-Lane MoneyCenter"
+      },
+      {
+        "id": "749",
+        "name": "PICKUP_TOGETHER",
+        "displayName": "PickUp Together"
+      },
+      {
+        "id": "5",
+        "name": "PICK_UP_TODAY",
+        "displayName": "Pickup Today"
+      }
+    ],
+    "nearbyStores": [
+      {
+        "id": 5609
+      },
+      {
+        "id": 3493
+      },
+      {
+        "id": 1651
+      },
+      {
+        "id": 2648
+      },
+      {
+        "id": 5434
+      },
+      {
+        "id": 2925
+      },
+      {
+        "id": 5535
+      },
+      {
+        "id": 1615
+      },
+      {
+        "id": 32068
+      },
+      {
+        "id": 3708
+      }
+    ]
+  },
+  {
+    "id": 5434,
+    "distance": 16.83,
+    "displayName": "San Leandro Store",
+    "detailsPageURL": "http://www.walmart.com/store/5434",
+    "address": {
+      "postalCode": "94579",
+      "address": "15555 Hesperian Blvd",
+      "addressLine2": null,
+      "city": "San Leandro",
+      "state": "CA",
+      "stateFullName": "California",
+      "country": "US"
+    },
+    "phone": "510-351-0108",
+    "openNow": true,
+    "openDate": "01/14/2009 00:00",
+    "operationalHours": {
+      "open24Hours": null,
+      "monToFriHrs": {
+        "startHr": "07:00",
+        "endHr": "20:30",
+        "openFullDay": null,
+        "closed": null
+      },
+      "mondayHrs": {
+        "startHr": "07:00",
+        "endHr": "20:30",
+        "openFullDay": null,
+        "closed": null
+      },
+      "tuesdayHrs": {
+        "startHr": "07:00",
+        "endHr": "20:30",
+        "openFullDay": null,
+        "closed": null
+      },
+      "wednesdayHrs": {
+        "startHr": "07:00",
+        "endHr": "20:30",
+        "openFullDay": null,
+        "closed": null
+      },
+      "thursdayHrs": {
+        "startHr": "07:00",
+        "endHr": "20:30",
+        "openFullDay": null,
+        "closed": null
+      },
+      "fridayHrs": {
+        "startHr": "07:00",
+        "endHr": "20:30",
+        "openFullDay": null,
+        "closed": null
+      },
+      "sundayHrs": {
+        "startHr": "07:00",
+        "endHr": "20:30",
+        "openFullDay": null,
+        "closed": null
+      },
+      "saturdayHrs": {
+        "startHr": "07:00",
+        "endHr": "20:30",
+        "openFullDay": null,
+        "closed": null
+      },
+      "todayHrs": {
+        "startHr": "07:00",
+        "endHr": "20:30",
+        "openFullDay": null,
+        "closed": null
+      },
+      "tomorrowHrs": {
+        "startHr": "07:00",
+        "endHr": "20:30",
+        "openFullDay": null,
+        "closed": null
+      },
+      "nextOpenHrs": {
+        "startHr": "07:00",
+        "daysUntilOpen": 0,
+        "isoWeekday": 1
+      },
+      "announcement": null
+    },
+    "allServices": [
+      {
+        "id": "21",
+        "name": "PHARMACY",
+        "displayName": "Pharmacy"
+      },
+      {
+        "id": "862",
+        "name": "COVID_IMMUNIZATIONS",
+        "displayName": "COVID Immunizations"
+      },
+      {
+        "id": "859",
+        "name": "EXPRESS_DELIVERY",
+        "displayName": "Express Delivery"
+      },
+      {
+        "id": "300",
+        "name": "FAST_KEY",
+        "displayName": "Fast Key"
+      },
+      {
+        "id": "304",
+        "name": "GROCERY_PICKUP",
+        "displayName": "Grocery Pickup"
+      },
+      {
+        "id": "305",
+        "name": "GROCERY_PICKUP_DELIVERY",
+        "displayName": "Grocery Pickup and Delivery"
+      },
+      {
+        "id": "413",
+        "name": "IN_LANE_MONEYCENTER",
+        "displayName": "In-Lane MoneyCenter"
+      },
+      {
+        "id": "8",
+        "name": "PHOTO_CENTER",
+        "displayName": "Photo Center"
+      },
+      {
+        "id": "7",
+        "name": "PHOTO_CENTER_ONE_HOUR",
+        "displayName": "1-Hour Photo Center"
+      },
+      {
+        "id": "749",
+        "name": "PICKUP_TOGETHER",
+        "displayName": "PickUp Together"
+      },
+      {
+        "id": "5",
+        "name": "PICK_UP_TODAY",
+        "displayName": "Pickup Today"
+      },
+      {
+        "id": "1",
+        "name": "SITE_2_STORE",
+        "displayName": "Pickup"
+      },
+      {
+        "id": "23",
+        "name": "SUBWAY",
+        "displayName": "Subway2"
+      },
+      {
+        "id": "715",
+        "name": "SUBWAY_AND_AUNTIE_ANNES",
+        "displayName": "Subway & Auntie Anne's"
+      }
+    ],
+    "services": [
+      {
+        "id": "862",
+        "name": "COVID_IMMUNIZATIONS",
+        "displayName": "COVID Immunizations"
+      },
+      {
+        "id": "859",
+        "name": "EXPRESS_DELIVERY",
+        "displayName": "Express Delivery"
+      },
+      {
+        "id": "300",
+        "name": "FAST_KEY",
+        "displayName": "Fast Key"
+      },
+      {
+        "id": "305",
+        "name": "GROCERY_PICKUP_DELIVERY",
+        "displayName": "Grocery Pickup and Delivery"
+      },
+      {
+        "id": "413",
+        "name": "IN_LANE_MONEYCENTER",
+        "displayName": "In-Lane MoneyCenter"
+      },
+      {
+        "id": "749",
+        "name": "PICKUP_TOGETHER",
+        "displayName": "PickUp Together"
+      },
+      {
+        "id": "5",
+        "name": "PICK_UP_TODAY",
+        "displayName": "Pickup Today"
+      },
+      {
+        "id": "23",
+        "name": "SUBWAY",
+        "displayName": "Subway2"
+      },
+      {
+        "id": "715",
+        "name": "SUBWAY_AND_AUNTIE_ANNES",
+        "displayName": "Subway & Auntie Anne's"
+      }
+    ],
+    "nearbyStores": [
+      {
+        "id": 2648
+      },
+      {
+        "id": 2031
+      },
+      {
+        "id": 99922
+      },
+      {
+        "id": 5610
+      },
+      {
+        "id": 2161
+      },
+      {
+        "id": 5611
+      },
+      {
+        "id": 5426
+      },
+      {
+        "id": 2989
+      },
+      {
+        "id": 5535
+      },
+      {
+        "id": 32068
+      }
+    ]
+  },
+  {
+    "id": 2031,
+    "distance": 22.56,
+    "displayName": "Union City Store",
+    "detailsPageURL": "http://www.walmart.com/store/2031",
+    "address": {
+      "postalCode": "94587",
+      "address": "30600 Dyer St",
+      "addressLine2": null,
+      "city": "Union City",
+      "state": "CA",
+      "stateFullName": "California",
+      "country": "US"
+    },
+    "phone": "510-475-5915",
+    "openNow": true,
+    "openDate": "10/26/1993 00:00",
+    "operationalHours": {
+      "open24Hours": null,
+      "monToFriHrs": {
+        "startHr": "07:00",
+        "endHr": "20:30",
+        "openFullDay": null,
+        "closed": null
+      },
+      "mondayHrs": {
+        "startHr": "07:00",
+        "endHr": "20:30",
+        "openFullDay": null,
+        "closed": null
+      },
+      "tuesdayHrs": {
+        "startHr": "07:00",
+        "endHr": "20:30",
+        "openFullDay": null,
+        "closed": null
+      },
+      "wednesdayHrs": {
+        "startHr": "07:00",
+        "endHr": "20:30",
+        "openFullDay": null,
+        "closed": null
+      },
+      "thursdayHrs": {
+        "startHr": "07:00",
+        "endHr": "20:30",
+        "openFullDay": null,
+        "closed": null
+      },
+      "fridayHrs": {
+        "startHr": "07:00",
+        "endHr": "20:30",
+        "openFullDay": null,
+        "closed": null
+      },
+      "sundayHrs": {
+        "startHr": "07:00",
+        "endHr": "20:30",
+        "openFullDay": null,
+        "closed": null
+      },
+      "saturdayHrs": {
+        "startHr": "07:00",
+        "endHr": "20:30",
+        "openFullDay": null,
+        "closed": null
+      },
+      "todayHrs": {
+        "startHr": "07:00",
+        "endHr": "20:30",
+        "openFullDay": null,
+        "closed": null
+      },
+      "tomorrowHrs": {
+        "startHr": "07:00",
+        "endHr": "20:30",
+        "openFullDay": null,
+        "closed": null
+      },
+      "nextOpenHrs": {
+        "startHr": "07:00",
+        "daysUntilOpen": 0,
+        "isoWeekday": 1
+      },
+      "announcement": null
+    },
+    "allServices": [
+      {
+        "id": "21",
+        "name": "PHARMACY",
+        "displayName": "Pharmacy"
+      },
+      {
+        "id": "862",
+        "name": "COVID_IMMUNIZATIONS",
+        "displayName": "COVID Immunizations"
+      },
+      {
+        "id": "847",
+        "name": "ELECTRIC_CHARGE_STATION",
+        "displayName": "Electric Charge Station"
+      },
+      {
+        "id": "859",
+        "name": "EXPRESS_DELIVERY",
+        "displayName": "Express Delivery"
+      },
+      {
+        "id": "300",
+        "name": "FAST_KEY",
+        "displayName": "Fast Key"
+      },
+      {
+        "id": "304",
+        "name": "GROCERY_PICKUP",
+        "displayName": "Grocery Pickup"
+      },
+      {
+        "id": "305",
+        "name": "GROCERY_PICKUP_DELIVERY",
+        "displayName": "Grocery Pickup and Delivery"
+      },
+      {
+        "id": "413",
+        "name": "IN_LANE_MONEYCENTER",
+        "displayName": "In-Lane MoneyCenter"
+      },
+      {
+        "id": "24",
+        "name": "MC_DONALDS",
+        "displayName": "McDonald's"
+      },
+      {
+        "id": "8",
+        "name": "PHOTO_CENTER",
+        "displayName": "Photo Center"
+      },
+      {
+        "id": "7",
+        "name": "PHOTO_CENTER_ONE_HOUR",
+        "displayName": "1-Hour Photo Center"
+      },
+      {
+        "id": "749",
+        "name": "PICKUP_TOGETHER",
+        "displayName": "PickUp Together"
+      },
+      {
+        "id": "5",
+        "name": "PICK_UP_TODAY",
+        "displayName": "Pickup Today"
+      },
+      {
+        "id": "1",
+        "name": "SITE_2_STORE",
+        "displayName": "Pickup"
+      },
+      {
+        "id": "22",
+        "name": "TIRE_AND_LUBE",
+        "displayName": "Auto Care Center"
+      },
+      {
+        "id": "4",
+        "name": "VISION_CENTER",
+        "displayName": "Vision Center"
+      },
+      {
+        "id": "10",
+        "name": "WIRELESS_MOBILE",
+        "displayName": "Wireless Services"
+      }
+    ],
+    "services": [
+      {
+        "id": "862",
+        "name": "COVID_IMMUNIZATIONS",
+        "displayName": "COVID Immunizations"
+      },
+      {
+        "id": "847",
+        "name": "ELECTRIC_CHARGE_STATION",
+        "displayName": "Electric Charge Station"
+      },
+      {
+        "id": "859",
+        "name": "EXPRESS_DELIVERY",
+        "displayName": "Express Delivery"
+      },
+      {
+        "id": "300",
+        "name": "FAST_KEY",
+        "displayName": "Fast Key"
+      },
+      {
+        "id": "305",
+        "name": "GROCERY_PICKUP_DELIVERY",
+        "displayName": "Grocery Pickup and Delivery"
+      },
+      {
+        "id": "413",
+        "name": "IN_LANE_MONEYCENTER",
+        "displayName": "In-Lane MoneyCenter"
+      },
+      {
+        "id": "24",
+        "name": "MC_DONALDS",
+        "displayName": "McDonald's"
+      },
+      {
+        "id": "749",
+        "name": "PICKUP_TOGETHER",
+        "displayName": "PickUp Together"
+      },
+      {
+        "id": "5",
+        "name": "PICK_UP_TODAY",
+        "displayName": "Pickup Today"
+      },
+      {
+        "id": "10",
+        "name": "WIRELESS_MOBILE",
+        "displayName": "Wireless Services"
+      }
+    ],
+    "nearbyStores": [
+      {
+        "id": 99922
+      },
+      {
+        "id": 5434
+      },
+      {
+        "id": 5426
+      },
+      {
+        "id": 2989
+      },
+      {
+        "id": 2648
+      },
+      {
+        "id": 5610
+      },
+      {
+        "id": 2161
+      },
+      {
+        "id": 5611
+      },
+      {
+        "id": 2280
+      },
+      {
+        "id": 2119
+      }
+    ]
+  },
+  {
+    "id": 99922,
+    "distance": 22.58,
+    "displayName": "Rochester Store",
+    "detailsPageURL": "http://www.walmart.com/store/99922",
+    "address": {
+      "postalCode": "14623",
+      "address": "100 Park Circle",
+      "addressLine2": null,
+      "city": "Rochester",
+      "state": "NY",
+      "stateFullName": "New York",
+      "country": "US"
+    },
+    "phone": "510-475-5915",
+    "openNow": false,
+    "openDate": "10/26/1993 00:00",
+    "operationalHours": {
+      "open24Hours": null,
+      "monToFriHrs": null,
+      "mondayHrs": null,
+      "tuesdayHrs": null,
+      "wednesdayHrs": null,
+      "thursdayHrs": null,
+      "fridayHrs": null,
+      "sundayHrs": null,
+      "saturdayHrs": null,
+      "todayHrs": null,
+      "tomorrowHrs": null,
+      "nextOpenHrs": null,
+      "announcement": null
+    },
+    "allServices": [
+      {
+        "id": "21",
+        "name": "PHARMACY",
+        "displayName": "Pharmacy"
+      },
+      {
+        "id": "34",
+        "name": "COINSTAR",
+        "displayName": "Coinstar"
+      },
+      {
+        "id": "300",
+        "name": "FAST_KEY",
+        "displayName": "Fast Key"
+      },
+      {
+        "id": "20",
+        "name": "GARDEN_CENTER",
+        "displayName": "Garden Center"
+      },
+      {
+        "id": "413",
+        "name": "IN_LANE_MONEYCENTER",
+        "displayName": "In-Lane MoneyCenter"
+      },
+      {
+        "id": "24",
+        "name": "MC_DONALDS",
+        "displayName": "McDonald's"
+      },
+      {
+        "id": "8",
+        "name": "PHOTO_CENTER",
+        "displayName": "Photo Center"
+      },
+      {
+        "id": "7",
+        "name": "PHOTO_CENTER_ONE_HOUR",
+        "displayName": "1-Hour Photo Center"
+      },
+      {
+        "id": "749",
+        "name": "PICKUP_TOGETHER",
+        "displayName": "PickUp Together"
+      },
+      {
+        "id": "5",
+        "name": "PICK_UP_TODAY",
+        "displayName": "Pickup Today"
+      },
+      {
+        "id": "35",
+        "name": "REDBOX",
+        "displayName": "Redbox"
+      },
+      {
+        "id": "299",
+        "name": "RUG_DOCTOR",
+        "displayName": "Rug Doctor"
+      },
+      {
+        "id": "1",
+        "name": "SITE_2_STORE",
+        "displayName": "Pickup"
+      },
+      {
+        "id": "22",
+        "name": "TIRE_AND_LUBE",
+        "displayName": "Auto Care Center"
+      },
+      {
+        "id": "4",
+        "name": "VISION_CENTER",
+        "displayName": "Vision Center"
+      }
+    ],
+    "services": [
+      {
+        "id": "34",
+        "name": "COINSTAR",
+        "displayName": "Coinstar"
+      },
+      {
+        "id": "300",
+        "name": "FAST_KEY",
+        "displayName": "Fast Key"
+      },
+      {
+        "id": "20",
+        "name": "GARDEN_CENTER",
+        "displayName": "Garden Center"
+      },
+      {
+        "id": "413",
+        "name": "IN_LANE_MONEYCENTER",
+        "displayName": "In-Lane MoneyCenter"
+      },
+      {
+        "id": "24",
+        "name": "MC_DONALDS",
+        "displayName": "McDonald's"
+      },
+      {
+        "id": "749",
+        "name": "PICKUP_TOGETHER",
+        "displayName": "PickUp Together"
+      },
+      {
+        "id": "5",
+        "name": "PICK_UP_TODAY",
+        "displayName": "Pickup Today"
+      },
+      {
+        "id": "35",
+        "name": "REDBOX",
+        "displayName": "Redbox"
+      },
+      {
+        "id": "299",
+        "name": "RUG_DOCTOR",
+        "displayName": "Rug Doctor"
+      }
+    ],
+    "nearbyStores": [
+      {
+        "id": 2031
+      },
+      {
+        "id": 5434
+      },
+      {
+        "id": 5426
+      },
+      {
+        "id": 2989
+      },
+      {
+        "id": 2648
+      },
+      {
+        "id": 5610
+      },
+      {
+        "id": 2161
+      },
+      {
+        "id": 5611
+      },
+      {
+        "id": 2280
+      },
+      {
+        "id": 2119
+      }
+    ]
+  },
+  {
+    "id": 3493,
+    "distance": 22.82,
+    "displayName": "Martinez Store",
+    "detailsPageURL": "http://www.walmart.com/store/3493",
+    "address": {
+      "postalCode": "94553",
+      "address": "1021 Arnold Dr",
+      "addressLine2": null,
+      "city": "Martinez",
+      "state": "CA",
+      "stateFullName": "California",
+      "country": "US"
+    },
+    "phone": "925-313-5716",
+    "openNow": true,
+    "openDate": "01/23/2002 00:00",
+    "operationalHours": {
+      "open24Hours": null,
+      "monToFriHrs": {
+        "startHr": "07:00",
+        "endHr": "20:30",
+        "openFullDay": null,
+        "closed": null
+      },
+      "mondayHrs": {
+        "startHr": "07:00",
+        "endHr": "20:30",
+        "openFullDay": null,
+        "closed": null
+      },
+      "tuesdayHrs": {
+        "startHr": "07:00",
+        "endHr": "20:30",
+        "openFullDay": null,
+        "closed": null
+      },
+      "wednesdayHrs": {
+        "startHr": "07:00",
+        "endHr": "20:30",
+        "openFullDay": null,
+        "closed": null
+      },
+      "thursdayHrs": {
+        "startHr": "07:00",
+        "endHr": "20:30",
+        "openFullDay": null,
+        "closed": null
+      },
+      "fridayHrs": {
+        "startHr": "07:00",
+        "endHr": "20:30",
+        "openFullDay": null,
+        "closed": null
+      },
+      "sundayHrs": {
+        "startHr": "07:00",
+        "endHr": "20:30",
+        "openFullDay": null,
+        "closed": null
+      },
+      "saturdayHrs": {
+        "startHr": "07:00",
+        "endHr": "20:30",
+        "openFullDay": null,
+        "closed": null
+      },
+      "todayHrs": {
+        "startHr": "07:00",
+        "endHr": "20:30",
+        "openFullDay": null,
+        "closed": null
+      },
+      "tomorrowHrs": {
+        "startHr": "07:00",
+        "endHr": "20:30",
+        "openFullDay": null,
+        "closed": null
+      },
+      "nextOpenHrs": {
+        "startHr": "07:00",
+        "daysUntilOpen": 0,
+        "isoWeekday": 1
+      },
+      "announcement": null
+    },
+    "allServices": [
+      {
+        "id": "21",
+        "name": "PHARMACY",
+        "displayName": "Pharmacy"
+      },
+      {
+        "id": "862",
+        "name": "COVID_IMMUNIZATIONS",
+        "displayName": "COVID Immunizations"
+      },
+      {
+        "id": "859",
+        "name": "EXPRESS_DELIVERY",
+        "displayName": "Express Delivery"
+      },
+      {
+        "id": "304",
+        "name": "GROCERY_PICKUP",
+        "displayName": "Grocery Pickup"
+      },
+      {
+        "id": "305",
+        "name": "GROCERY_PICKUP_DELIVERY",
+        "displayName": "Grocery Pickup and Delivery"
+      },
+      {
+        "id": "24",
+        "name": "MC_DONALDS",
+        "displayName": "McDonald's"
+      },
+      {
+        "id": "440",
+        "name": "MINI_MELTS",
+        "displayName": "Mini-melts"
+      },
+      {
+        "id": "8",
+        "name": "PHOTO_CENTER",
+        "displayName": "Photo Center"
+      },
+      {
+        "id": "7",
+        "name": "PHOTO_CENTER_ONE_HOUR",
+        "displayName": "1-Hour Photo Center"
+      },
+      {
+        "id": "749",
+        "name": "PICKUP_TOGETHER",
+        "displayName": "PickUp Together"
+      },
+      {
+        "id": "5",
+        "name": "PICK_UP_TODAY",
+        "displayName": "Pickup Today"
+      },
+      {
+        "id": "1",
+        "name": "SITE_2_STORE",
+        "displayName": "Pickup"
+      },
+      {
+        "id": "4",
+        "name": "VISION_CENTER",
+        "displayName": "Vision Center"
+      },
+      {
+        "id": "10",
+        "name": "WIRELESS_MOBILE",
+        "displayName": "Wireless Services"
+      }
+    ],
+    "services": [
+      {
+        "id": "862",
+        "name": "COVID_IMMUNIZATIONS",
+        "displayName": "COVID Immunizations"
+      },
+      {
+        "id": "859",
+        "name": "EXPRESS_DELIVERY",
+        "displayName": "Express Delivery"
+      },
+      {
+        "id": "305",
+        "name": "GROCERY_PICKUP_DELIVERY",
+        "displayName": "Grocery Pickup and Delivery"
+      },
+      {
+        "id": "24",
+        "name": "MC_DONALDS",
+        "displayName": "McDonald's"
+      },
+      {
+        "id": "440",
+        "name": "MINI_MELTS",
+        "displayName": "Mini-melts"
+      },
+      {
+        "id": "749",
+        "name": "PICKUP_TOGETHER",
+        "displayName": "PickUp Together"
+      },
+      {
+        "id": "5",
+        "name": "PICK_UP_TODAY",
+        "displayName": "Pickup Today"
+      },
+      {
+        "id": "10",
+        "name": "WIRELESS_MOBILE",
+        "displayName": "Wireless Services"
+      }
+    ],
+    "nearbyStores": [
+      {
+        "id": 5609
+      },
+      {
+        "id": 3455
+      },
+      {
+        "id": 1615
+      },
+      {
+        "id": 1651
+      },
+      {
+        "id": 3708
+      },
+      {
+        "id": 2697
+      },
+      {
+        "id": 2648
+      },
+      {
+        "id": 2048
+      },
+      {
+        "id": 5610
+      },
+      {
+        "id": 5434
+      }
+    ]
+  }
+]
