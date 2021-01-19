@@ -1,0 +1,32 @@
+:root {
+  --white: #fff;
+  --light-gray: #ededed;
+  --base-color: #041e42;
+  --base-color-accent: #042654;
+  --base-color-accent2: #032455;
+  --base-linear-1: linear-gradient(
+    180deg,
+    var(--base-color-accent),
+    var(--base-color)
+  );
+  --base-linear-2: linear-gradient(
+    -180deg,
+    var(--base-color),
+    var(--base-color-accent2)
+  );
+  --primary-color: #ffc220;
+  --primary-color-accent: #fab500;
+  --secondary-color: #0071ce;
+  --progress-color: rgb(59, 165, 82);
+  --alert-color: #fd7070;
+  --notification-color: #fd5f5f;
+  --topbar-link: var(--white);
+  --topbar-link--hover: #8bb4ee;
+  --shadow-1: 0 0 6px 2px rgb(0 0 0 / 0.5);
+  --shadow-2: 0 0 6px 2px rgb(0 0 0 / 0.2);
+  --shadow-button: 0 2px 4px 0 rgb(0 0 0 / 0.2);
+  --skew-1: skew(-15deg);
+  --font-family: "Bogle", -apple-system, BlinkMacSystemFont, "Segoe UI",
+    "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans",
+    "Helvetica Neue", sans-serif;
+}
