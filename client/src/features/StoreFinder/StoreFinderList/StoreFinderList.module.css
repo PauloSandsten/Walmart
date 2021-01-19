@@ -1,0 +1,90 @@
+.resultText {
+  margin: 0 0 1.5rem;
+  font-weight: 700;
+  text-align: center;
+}
+
+.listItem {
+  display: flex;
+  width: 600px;
+}
+
+.listArticle {
+  display: flex;
+  flex: 1;
+}
+
+.left {
+  padding: 0 0.75rem 0 0;
+}
+
+.left svg {
+  height: 30px;
+  width: auto;
+}
+
+.right {
+  display: flex;
+  width: 100%;
+  justify-content: space-between;
+  margin: 0 0 1.5rem;
+  border-bottom: 1px solid var(--light-gray);
+}
+
+li:last-of-type .right {
+  border-bottom: none;
+}
+
+.displayName {
+  font-size: 1.25rem;
+}
+
+.storeMeta {
+  font-size: 0.875rem;
+}
+
+.isOpen {
+  color: var(--progress-color);
+}
+
+.isClosed {
+  color: var(--alert-color);
+}
+
+.storeAddress {
+  margin-top: 0.75rem;
+}
+
+.storeCityStateZip {
+  margin-bottom: 0.75rem;
+  font-size: 0.875rem;
+}
+
+.storePrimaryActions {
+  display: flex;
+}
+
+.roundActionButtons {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-left: 1rem;
+  border-radius: 50%;
+  padding: 0.5rem;
+  height: 50px;
+  width: 50px;
+  background: var(--white);
+  box-shadow: 0 1px 3px 0 #444;
+  box-shadow: var(--shadow-button);
+}
+
+.roundActionButtons svg {
+  height: 24px;
+  width: auto;
+}
+
+/* Adjusting for now the call icon */
+.roundActionButtons:first-child svg {
+  height: 20px;
+  width: auto;
+}

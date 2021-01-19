@@ -1,0 +1,53 @@
+.form {
+  display: flex;
+  margin: 0;
+  border: 0;
+  box-shadow: 0 0 0 1px inset var(--light-gray);
+  border-radius: 1.25rem;
+  padding: 0;
+  width: 500px;
+  height: 2.5rem;
+  overflow: hidden;
+}
+
+.input {
+  margin: 0;
+  border: none;
+  padding: 0 0 0 1.5rem;
+  background: none;
+  box-shadow: none;
+  outline: none;
+  height: 100%;
+  flex: 1;
+}
+
+.history {
+  margin-top: 0.5rem;
+  font-size: 0.875rem;
+  text-align: center;
+}
+
+.historyQueries {
+  font-size: 0.875rem;
+  font-weight: 700;
+}
+
+.searchButton {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+  width: 4rem;
+  background: var(--primary-color);
+}
+
+.searchButton:hover {
+  background: var(--primary-color-accent);
+}
+
+.searchButton svg {
+  height: 15px;
+  width: auto;
+  margin-left: -0.25rem;
+  stroke: var(--base-color);
+}
