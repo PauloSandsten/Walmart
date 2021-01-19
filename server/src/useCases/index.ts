@@ -1,0 +1,1 @@
+export { findStoresByQuery } from "./findStoresByQuery";
