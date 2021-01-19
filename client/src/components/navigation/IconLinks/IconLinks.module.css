@@ -1,0 +1,39 @@
+.iconLinks {
+  display: flex;
+  align-items: center;
+  height: 100%;
+}
+
+.iconLinkItem {
+  position: relative;
+  margin: 0 1rem;
+}
+
+.iconLinkItemNotification {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: absolute;
+  height: 18px;
+  width: 18px;
+  border-radius: 50%;
+  top: -0.625rem;
+  right: -0.875rem;
+  background: var(--notification-color);
+  font-size: 0.75rem;
+  font-weight: 700;
+}
+
+.iconLinkItem a {
+  cursor: pointer;
+}
+
+.iconLinkItem svg {
+  height: 24px;
+  width: 24px;
+  fill: var(--white);
+}
+
+.iconLinkItem svg:hover {
+  fill: var(--topbar-link--hover);
+}

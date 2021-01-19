@@ -1,0 +1,87 @@
+.topbarWrapper {
+  position: fixed;
+  display: flex;
+  top: 0;
+  height: 4rem;
+  width: 100%;
+  z-index: 100;
+}
+
+.hamburgerWrapper {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex: 0 0 4rem;
+  height: 100%;
+  background: var(--primary-color-accent);
+}
+
+.hamburgerWrapper svg {
+  height: 20px;
+  width: 20px;
+}
+
+.pageTitle {
+  display: flex;
+  align-items: center;
+  padding: 0 1rem;
+  flex: 0 0 16rem;
+  height: 100%;
+  background: var(--primary-color);
+  font-weight: 700;
+}
+
+.pageTitle svg {
+  margin-right: 0.5rem;
+  height: 22px;
+  width: 30px;
+}
+
+.right {
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  position: relative;
+  flex: 1;
+  height: 100%;
+  background: var(--base-color);
+}
+
+.gradientDecorator1,
+.gradientDecorator2 {
+  position: absolute;
+  top: 0;
+  right: 0;
+  height: 100%;
+  transform: var(--skew-1);
+}
+
+.gradientDecorator1 {
+  right: 14rem;
+  width: 24rem;
+  background: var(--base-linear-1);
+}
+
+.gradientDecorator2 {
+  margin: 0 -1rem 0 0;
+  width: 15rem;
+  background: var(--base-linear-2);
+}
+
+.navigation {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex: 0 0 24rem;
+  height: 100%;
+  z-index: 100;
+}
+
+.branding {
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  flex: 0 0 14rem;
+  padding: 0 1.5rem 0 0;
+  z-index: 100;
+}

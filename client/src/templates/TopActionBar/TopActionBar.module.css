@@ -1,0 +1,27 @@
+.topActionBarWrapper {
+  position: fixed;
+  top: 4rem;
+  width: 100%;
+  height: 3rem;
+  background: var(--light-gray);
+  box-shadow: var(--shadow-2);
+}
+
+.container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0 1.5rem;
+  height: 100%;
+}
+
+.links a {
+  margin-right: 1rem;
+  color: var(--base-color);
+  text-decoration: none;
+}
+
+.links a:hover {
+  color: var(--base-color-accent);
+  text-decoration: underline;
+}

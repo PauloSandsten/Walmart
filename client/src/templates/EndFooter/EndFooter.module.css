@@ -1,0 +1,22 @@
+.top,
+.bottom {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.top {
+  height: 6rem;
+  background: var(--base-linear-2);
+}
+
+.top svg {
+  height: 3.5rem;
+}
+
+.bottom {
+  height: 3rem;
+  background: var(--base-color);
+  color: var(--white);
+  font-size: 0.875rem;
+}
