@@ -4,7 +4,6 @@ import { ReactComponent as HomeCircle } from "../../../assets/images/icons/home-
 import { ReactComponent as Call } from "../../../assets/images/icons/call.svg";
 import { ReactComponent as Directions } from "../../../assets/images/icons/directions.svg";
 import Styles from "./StoreFinderList.module.css";
-
 interface StoreFinderListProps {
   stores: Array<Store>;
 }
